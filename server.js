@@ -55,7 +55,7 @@ app.get('/', function (req, res) {
 //later change to run on other comps
 app.listen(3000);
 
-//download packages
+
 //first cheerio gets information
 //insert info into database
 //display results from database to website
